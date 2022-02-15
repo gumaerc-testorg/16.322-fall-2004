@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Outline of topics covered in the lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-322-stochastic-estimation-and-control-fall-2004/5f2bd43a1b7e20c0135a1974c8ece85d_lecture13.pdf
+file: /media/courses/16-322-stochastic-estimation-and-control-fall-2004/5f2bd43a1b7e20c0135a1974c8ece85d_lecture13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture13.pdf
 uid: 5f2bd43a-1b7e-20c0-135a-1974c8ece85d
