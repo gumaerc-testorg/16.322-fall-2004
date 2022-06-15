@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section gives information about the particular sections of the books
+  that will be used by students for readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

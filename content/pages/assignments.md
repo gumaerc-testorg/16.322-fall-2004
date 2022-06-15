@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section gives the problem assignment number from the course text
+  book.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
