@@ -5,6 +5,7 @@ file: /courses/16-322-stochastic-estimation-and-control-fall-2004/026a5d31663b64
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture07.pdf
 uid: 026a5d31-663b-6494-ff28-0b28ad03e99a
 ---
 Outline of topics covered in the lecture.
-

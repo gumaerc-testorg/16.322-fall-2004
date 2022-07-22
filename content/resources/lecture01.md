@@ -7,6 +7,7 @@ file: /courses/16-322-stochastic-estimation-and-control-fall-2004/b19a6c1da8ed45
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture01.pdf
 uid: b19a6c1d-a8ed-4565-89e1-c52bdaadee04
 ---
 Outline of the lecture covering the following topics: Introduction to Random Signals, Intuitive Notion of Probability, Axiomatic Probability, Joint and Conditional Probability.
-
