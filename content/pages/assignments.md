@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section gives the problem assignment number from the course text
+  book.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e36abe0a-444d-8397-86a3-fdfb662d3e99
 ---

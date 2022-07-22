@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section gives information about the particular sections of the books
+  that will be used by students for readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8bac5a6f-5ced-55ed-46b9-a2a5c94f8abd
 ---
