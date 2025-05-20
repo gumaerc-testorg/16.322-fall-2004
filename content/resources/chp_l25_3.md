@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/16-322-stochastic-estimation-and-control-fall-2004/55d7de775fba97900e567de1e09b3190_chp_l25_3.jpg
+file: /courses/16-322-stochastic-estimation-and-control-fall-2004/55d7de775fba97900e567de1e09b3190_chp_l25_3.jpg
 file_size: 20791
 file_type: image/jpeg
 image_metadata:

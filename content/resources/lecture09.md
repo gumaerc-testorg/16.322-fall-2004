@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of topics covered in the lecture.
-file: /ol-ocw-studio-app/courses/16-322-stochastic-estimation-and-control-fall-2004/4cef665b09c034b64fed309bcde0c417_lecture09.pdf
+file: /courses/16-322-stochastic-estimation-and-control-fall-2004/4cef665b09c034b64fed309bcde0c417_lecture09.pdf
 file_size: 320145
 file_type: application/pdf
 learning_resource_types:

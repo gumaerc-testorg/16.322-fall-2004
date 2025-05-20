@@ -3,7 +3,7 @@ content_type: resource
 description: 'Outline of the lecture covering the following topics: Introduction to
   Random Signals, Intuitive Notion of Probability, Axiomatic Probability, Joint and
   Conditional Probability.'
-file: /ol-ocw-studio-app/courses/16-322-stochastic-estimation-and-control-fall-2004/b19a6c1da8ed456589e1c52bdaadee04_lecture01.pdf
+file: /courses/16-322-stochastic-estimation-and-control-fall-2004/b19a6c1da8ed456589e1c52bdaadee04_lecture01.pdf
 file_size: 239576
 file_type: application/pdf
 learning_resource_types:
